@@ -69,8 +69,9 @@ button:hover {
     width: 95%;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 500px) {
     .nav, .quizbody {
         width: 100%;
-        margin: 6px;
+        margin-right: 20px;
+        padding-right: 20px;
     }
