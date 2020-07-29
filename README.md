@@ -3,7 +3,7 @@
 ## Summary:
 * Test your knowledge of JavaScript with this quiz! Navigate your way through the multiple-choice questions, but remember, time is of the essence! 
 
-![JavaScript Quiz Preview](quiz image.png)
+![JavaScript Quiz Preview](quizimage.png)
 
 ## Instructions:
 * Users will have 75 seconds to complete the quiz.
