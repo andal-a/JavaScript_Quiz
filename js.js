@@ -61,7 +61,7 @@ var quizContent = `
 <h3>You got a ` + score +  ` /100!</h3>
 <h3>That means you got ` + score / 20 +  ` questions correct!</h3>
 <input type="text" id="name" placeholder="First name"> 
-<button onclick="setScore()">Set score!</button>`;
+<button onclick="setScore()">Save Your Score!</button>`;
 
 document.getElementById("quizBody").innerHTML = quizContent;
 }
