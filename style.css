@@ -14,10 +14,10 @@
     display: block;
     background-color: white;
     display: inline-block;
-    width: 98vw;
+    width: 95%;
     border: 3px solid  #ff4dc4;
     border-radius: 5px;
-    margin: 6px;
+    margin: 20px;
 }
 
 /*Main Section*/
@@ -65,5 +65,12 @@ button:hover {
     background-color: white;
     width: 98vw;
     border-radius: 5px;
-    margin: 6px;
+    margin: 20px;
+    width: 95%;
 }
+
+@media screen and (max-width: 800px) {
+    .nav, .quizbody {
+        width: 100%;
+        margin: 6px;
+    }
